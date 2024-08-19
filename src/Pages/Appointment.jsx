@@ -9,7 +9,7 @@ const Appointment = () => {
         title={"Schedule Your Appointment | KSR Medical Institute"}
         imageUrl={"/signin.png"}
       />
-      <AppointmentForm/>
+      <AppointmentForm />
     </>
   );
 };
